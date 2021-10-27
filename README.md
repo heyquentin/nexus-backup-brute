@@ -1,4 +1,4 @@
-Password brute forcer for Offsec Proving Grounds (PG) machine Sona
+Password brute forcer for Offsec Proving Grounds (PG) machine Sona: NEXUS BACKUP MANAGER
 
 This machine requires you enter an answer for some hints to reset a password. Here's a brute forcer for it so you don't have to do things manually. 
 1. Change the HOST variable
